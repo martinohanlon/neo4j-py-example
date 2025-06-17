@@ -29,9 +29,9 @@ with driver.session() as session:
         return result.consume()
 
     # Execute transaction function
-    summary = session.execute_write(create_person, name="Alice", age=30)
+    summary = session.execute_write(create_person, name='Alice', age=30)
 
-    print(summary.counters.nodes_created, "node(s) created.")
+    print(summary.counters.nodes_created, 'node(s) created.')
 
 # Close the driver
 driver.close()

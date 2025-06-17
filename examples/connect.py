@@ -1,3 +1,9 @@
+# This example demonstrates how to connect to a Neo4j database using the Neo4j
+# Python driver.
+# 
+# It connects to the database, verifies the connection, runs a simple Cypher 
+# query to count the nodes, and prints the result.
+
 import os
 from dotenv import load_dotenv
 load_dotenv()
