@@ -6,7 +6,7 @@ This repository contains code examples to use Python with Neo4j Aura.
 
 > [!IMPORTANT]  
 > To use GitHub Codespaces you will need to login with a GitHub account. 
-> You can use the [GitHub Codespaces free monthly usage](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts[GitHub Codespaces free monthly usage) to view these examples.
+> You can use the [GitHub Codespaces free monthly usage](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) to view these examples.
 
 ## Install
 
